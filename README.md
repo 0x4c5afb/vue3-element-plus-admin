@@ -1,3 +1,3 @@
-# Vue 3 + Vite
+# vue3-element-plus-admin
 
 ## Recommended IDE Setup
